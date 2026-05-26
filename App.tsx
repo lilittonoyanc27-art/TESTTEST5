@@ -58,8 +58,8 @@ const TRANSLATIONS = {
     translationPlholder: "Թարգմանություն",
     addBtn: "Ավելացնել",
     originalAppRecreated: "Հավելվածը վերստեղծված է բնօրինակ վարժությունների հիման վրա",
-    aiTutorFeedback: "AI Թյութորի աջակցություն",
-    generateAIFeedback: "Վերլուծել պատասխանը AI-ով"
+    aiTutorFeedback: "Թյութորի աջակցություն",
+    generateAIFeedback: "Վերլուծել պատասխանը"
   },
   rus: {
     title: "Игра по испанскому языку",
